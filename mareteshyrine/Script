@@ -2,14 +2,14 @@
 #Script Variables
 apt update
 apt install sudo
-HOST='66.45.238.235';
-USER='zoeyvpnx_mareteshyrine';
-PASS='@Renzdee7@Maretes7';
-DBNAME='zoeyvpnx_mareteshyrine';
+HOST='185.62.188.4';
+USER='matthewz1_matthewvpn_2024';
+PASS='matthewz1_matthewvpn_2024';
+DBNAME='matthewz1_matthewvpn_2024';
 PORT_TCP='1194';
 PORT_UDP='110';
 PORT_SSL='443';
-API_LINK='https://maretes-hyrinevpn.site/api/authentication/premium';
+API_LINK='https://matthew-vpn.xyz/api/authentication/premium';
 API_KEY='YModified';
 
 
